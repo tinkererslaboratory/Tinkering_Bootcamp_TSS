@@ -5,8 +5,8 @@ For initial setup head over to:
 https://www.youtube.com/watch?v=3kDMYomFw5o
 https://www.arduino.cc/en/main/software
 
-# Week1: Introduction to Arduino, Sensors, Modules, Quiz & Challenge 1
-# Week2: Introduction to NodeMCU and ESP, Voice Assistant
-# Week3: Zigbee, Swarm networking, Chatbot, Project
-# Week4: Fundamentals of RaspberryPi and its application
-# Week5: Project 2 and Talks
+### Week1: Introduction to Arduino, Sensors, Modules, Quiz & Challenge 1
+### Week2: Introduction to NodeMCU and ESP, Voice Assistant
+### Week3: Zigbee, Swarm networking, Chatbot, Project
+### Week4: Fundamentals of RaspberryPi and its application
+### Week5: Project 2 and Talks
