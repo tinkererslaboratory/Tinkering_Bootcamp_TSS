@@ -1,0 +1,8 @@
+from PIL import Image
+from PIL import ImageFilter
+from PIL import ImageEnhance
+img=Image.open("shop.jpg")
+#Image._show(img)
+img=img.crop((45,30,700,150))#shop
+#img=img.crop((0,100,1120,550))#News
+Image._show(img)

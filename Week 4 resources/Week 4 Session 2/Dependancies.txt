@@ -1,0 +1,4 @@
+Command to install pi hole: sudo curl -sSL https://install.pi-hole.net | sudo bash
+
+Pytesseract setup link : https://github.com/UB-Mannheim/tesseract/wiki     #install this setup and roght the path of the exe file present in this in the python script#
+
